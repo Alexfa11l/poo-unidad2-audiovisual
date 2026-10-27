@@ -26,9 +26,9 @@ public class PruebaAudioVisual {
         Documental doc = new Documental("Cosmos", 45, "Science", "Astronomy", inv);
         contenidos[2] = doc;
 
-        // 4. Cortometraje (Nueva subclase propia - Etapa 4)
-        Cortometraje corto = new Cortometraje("El Sombrerero", 15, "Drama", "Luis Buñuel", "Festival de Cannes");
-        contenidos[3] = corto;
+        // 4. Audiolibro (Nuestra subclase propia en lugar de cortometraje)
+        Audiolibro audio = new Audiolibro("El Principito", 2023, "Literatura", "Juan Pérez", 120);
+        contenidos[3] = audio;
 
         // 5. Podcast (Nueva subclase propia - Etapa 4)
         Podcast pod = new Podcast("Tecnología al Día", 30, "Tecnología", "Ana Gómez", 45);
