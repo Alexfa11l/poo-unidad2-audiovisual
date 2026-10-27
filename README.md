@@ -2,14 +2,10 @@
 
 Proyecto desarrollado para la asignatura de **Programación Orientada a Objetos** de la **Universidad Politécnica Salesiana (UPS)**. Su objetivo es aplicar conceptos avanzados de POO como herencia, asociación, agregación y composición mediante la expansión de un sistema de gestión de contenidos audiovisuales en Java.
 
----
-
-## 🚀 Descripción y Propósito del Proyecto
+ Descripción y Propósito del Proyecto
 El sistema gestiona de forma polimórfica una lista de contenidos audiovisuales, permitiendo registrar, estructurar y mostrar detalles detallados de diferentes medios (películas, series, documentales, audiolibros y podcasts) junto con sus entidades asociadas.
 
----
-
-## 🏗️ Clases y Funcionalidades Nuevas Añadidas
+Clases y Funcionalidades Nuevas Añadidas
 
 1. **Clases Base Originales (Etapa 1):**
    * `ContenidoAudiovisual` (Clase abstracta principal).
